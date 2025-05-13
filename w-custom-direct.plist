@@ -1,0 +1,17 @@
+# 直连域名
+DOMAIN-SUFFIX,billfish.cc
+DOMAIN-SUFFIX,yecong.cc
+DOMAIN-SUFFIX,aunapi.cc
+DOMAIN-SUFFIX,kuque.cc
+DOMAIN-SUFFIX,wangying.cc
+DOMAIN-KEYWORD,.ce
+DOMAIN-SUFFIX,auntec.cn
+DOMAIN-SUFFIX,kxhz.cc
+DOMAIN-SUFFIX,acl4.ssr
+
+# 直连ip
+IP-CIDR,172.28.0.0/16,no-resolve
+IP-CIDR,10.10.0.0/16,no-resolve
+IP-CIDR,10.20.0.0/16,no-resolve
+IP-CIDR,10.30.0.0/16,no-resolve
+IP-CIDR,10.50.0.0/16,no-resolve
