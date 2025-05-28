@@ -15,3 +15,5 @@ IP-CIDR,10.10.0.0/16,no-resolve
 IP-CIDR,10.20.0.0/16,no-resolve
 IP-CIDR,10.30.0.0/16,no-resolve
 IP-CIDR,10.50.0.0/16,no-resolve
+IP-CIDR,10.57.0.0/16,no-resolve
+IP-CIDR,192.168.0.0/16,no-resolve
