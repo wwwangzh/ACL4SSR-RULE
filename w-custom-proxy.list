@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,idcoffer.com
 DOMAIN-SUFFIX,anyrouter.top
 DOMAIN-SUFFIX,rainapp.top
+IP-CIDR,221.228.32.0/24,no-resolve
