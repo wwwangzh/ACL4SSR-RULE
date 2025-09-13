@@ -1,1 +1,3 @@
-
+DOMAIN-SUFFIX,alice.dns-dynamic.net
+# DOMAIN-SUFFIX,rainapp.top
+# IP-CIDR,221.228.32.0/24,no-resolve
