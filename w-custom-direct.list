@@ -8,7 +8,6 @@ DOMAIN-KEYWORD,.ce
 DOMAIN-SUFFIX,auntec.cn
 DOMAIN-SUFFIX,kxhz.cc
 DOMAIN-SUFFIX,acl4.ssr
-DOMAIN-SUFFIX,linux.do
 
 # 直连ip
 IP-CIDR,172.28.0.0/16,no-resolve
