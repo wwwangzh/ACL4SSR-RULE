@@ -5,3 +5,8 @@ DOMAIN-SUFFIX,idcoffer.com
 DOMAIN-SUFFIX,anyrouter.top
 DOMAIN-SUFFIX,rainapp.top
 IP-CIDR,221.228.32.0/24,no-resolve
+DOMAIN,antigravity-unleash.goog
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN,lh3.googleusercontent.com
+DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com
+DOMAIN-SUFFIX,us-central1.run.app
